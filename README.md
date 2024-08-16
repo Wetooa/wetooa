@@ -21,3 +21,5 @@ Welcome to my GitHub profile! I'm [Adrian Sajulga], a [Student] with a passion f
 - Email: [derpykidyt@gmail.com]
 
 Thanks for visiting my profile!
+
+p.s thank you gpt for this worderful ass template HAHJAHDJKAHSDJKASD
