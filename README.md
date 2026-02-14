@@ -1,25 +1,71 @@
-# Hi there 👋
+# Adrian Sajulga
 
-Welcome to my GitHub profile! I'm [Adrian Sajulga], a [Student] with a passion for [Software Engineering, AI, and Cybersecurity].
+Computer Science student specializing in **AI systems, cybersecurity, and high-performance software engineering**.  
+Grand Champion in multiple national and international technology competitions. Builder of secure, production-ready systems.
 
-## About Me
+---
 
-- 🔭 I’m currently working on [LLMs]
-- 🌱 I’m currently learning [Artificial Intelligence]
-- 👯 I’m looking to collaborate on [Web Projects]
-- 📫 How to reach me: [Github / Facebook]
-- ⚡ Fun fact: [I love Programming]
+## Focus Areas
 
-## Skills
+- **AI Systems & LLM Engineering** – Local models, embeddings, applied AI pipelines
+- **Cybersecurity** – CTFs, reverse engineering, secure architecture
+- **Full-Stack Systems** – Scalable web platforms with modern stacks
+- **Competitive Programming** – Global top 1% LeetCode
 
-- Programming Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Frameworks/Libraries: [NextJS]
+---
 
-## Connect with Me
+## Selected Achievements
 
-- LinkedIn: [https://www.linkedin.com/in/adrian-sajulga-52ba35246/?originalSubdomain=ph](https://www.linkedin.com/in/your-profile)
-- Email: [derpykidyt@gmail.com]
+- 🥇 Grand Champion – Huawei ICT Competition, Global Finals (2025)
+- 🥇 Grand Champion – Hack4Gov CTF (Regional, multiple years)
+- 🥇 Grand Champion – Trend Micro Decode CTF (2025)
+- 🏅 Bronze Medal – ICSC 2025 (Top 2%)
+- 🥇 PhilNITS FE – Top 1 in the Philippines
+- 🌍 LeetCode – Rank 288 Global (Top 1.31%)
 
-Thanks for visiting my profile!
+---
 
-p.s thank you gpt for this worderful ass template HAHJAHDJKAHSDJKASD
+## Projects
+
+### Mammoscan  
+AI-powered early breast screening system.  
+National research competition champion (STTP 2025).
+
+### Mentara  
+Full-stack mental health platform with structured backend architecture and real-time systems.
+
+### Sprout  
+Remote-sensing agriculture analytics app.  
+Stack: Next.js, MapLibre, Google Earth Engine, ASP.NET
+
+### CITU SSG 2025  
+Real-time election results platform.  
+Stack: Next.js, NestJS, Supabase
+
+---
+
+## Tech Stack
+
+### Languages
+Python • Rust • JavaScript • TypeScript • Java • C#
+
+### Frameworks & Tools
+Next.js • NestJS • Spring Boot • Django • Flask • Supabase • Ollama • Docker • PostgreSQL
+
+---
+
+## Currently Exploring
+
+- Advanced LLM pipelines
+- Retrieval-Augmented Generation (RAG)
+- Applied AI in healthcare
+- Secure distributed systems
+
+---
+
+## Connect
+
+GitHub: https://github.com/wetooa  
+LinkedIn: https://linkedin.com/in/adrian-sajulga  
+LeetCode: https://leetcode.com/u/Wetooa  
+Email: adrian.sajulga146@gmail.com
