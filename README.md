@@ -50,4 +50,5 @@ Next.js • NestJS • Spring Boot • Django • Docker • PostgreSQL • Supa
 GitHub: https://github.com/wetooa  
 LinkedIn: https://linkedin.com/in/adrian-sajulga  
 LeetCode: https://leetcode.com/u/Wetooa  
-Email: adrian.sajulga146@gmail.com
+Email: adrian.sajulga146@gmail.com  
+Portfolio: https://portfolio.wetooa.org/
