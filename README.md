@@ -8,7 +8,7 @@
 
 ## 🔥 What I Do
 
-- 🤖 AI systems & LLM engineering (local models, RAG, embeddings)
+- 🤖 AI systems & LLM engineering (local models, RAG, embeddings, agents)
 - 🔐 Cybersecurity & CTF
 - 🏗️ Full-stack systems (production-ready apps)
 - ⚡ High-performance & competitive programming
@@ -32,16 +32,18 @@
 Python • Rust • TS/JS • Java • C#
 
 **Frameworks & Tools:**  
-Next.js • NestJS • Spring Boot • Django • Docker • PostgreSQL • Supabase • Ollama
+Next.js • NestJS • Spring Boot • Django • Docker • PostgreSQL • Supabase • Ollama • Playwright
 
 ---
 
 ## 📌 Notable Projects
 
-- 🩺 **Mammoscan** – AI-powered early breast screening system  
-- 🧘 **Mentara** – Full-stack mental health platform  
-- 🌾 **Sprout** – Remote-sensing agriculture analytics  
-- 🗳️ **CITU SSG 2025** – Real-time election results system  
+- 🩺 **Mammoscan** — AI-powered early breast screening system
+- 🧘 **Mentara** — Full-stack mental health platform
+- 🌾 **Sprout** — Remote-sensing agriculture analytics
+- 🗳️ **CITU SSG 2025** — Real-time election results system
+- 💼 **JobsPH Lister** — Local job discovery with CV-aware LLM matching (Playwright + Ollama)
+- 📋 **Google Forms Populator** — Nx monorepo: Playwright automation + Next.js dashboard, Ollama-backed flows
 
 ---
 
